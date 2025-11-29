@@ -1,8 +1,8 @@
 # Practicum Problem 4/5800 Fall 2025
-In this practicum problem, you will write code to construct, train and test a Classical Hopfield Network (CHN) for the purpose of storing and recalling (uncorrelated) binary images. See `L15a` and `L15b` lecture notes for more details on the classical and modern Hopfield networks.
+In this practicum problem, you will write code to construct, train and test a Classical Hopfield Network (CHN) for the purpose of storing and recalling (uncorrelated) binary images. See `L15a` and `L15c` lecture notes for more details on the classical and modern Hopfield networks.
 
 ## Instructions
-The student notebook `CHEME-5800-Student-Practicum-ClassicalHopfieldNetworks-F2025.ipynb` has been provided for you. However, all of the underlying source code that makes the notebook work—namely, the types and methods—has been removed. Your task is to re-implement the missing code in the `src/` folder.
+The student notebook `CHEME-5800-Student-Practicum-ClassicalHopfieldNetworks-F2025.ipynb` has been provided for you. However, all of the underlying source code that makes the notebook work, namely, the types and methods, has been removed. Your task is to re-implement the missing code in the `src/` folder.
 
 Specifically, you will need to implement code in the following files:
 
@@ -14,7 +14,7 @@ Specifically, you will need to implement code in the following files:
 > 
 > If you need to add any helper methods or types, you can create additional files in the `src/` folder as needed.
 
-Finally, make sure to test your code by running the provided notebook. The notebook includes a test suite at the end that will verify the correctness of your implementation. You are responsible for ensuring that all tests pass and fixing any bugs that arise (including in the notebook itself, if necessary).
+Finally, make sure to test your code by running the provided notebook. The notebook includes tests in the notebook and at the end that will verify the correctness of your implementation. You are responsible for ensuring that all tests pass and fixing any bugs that arise (including in the notebook itself, if necessary).
 
 ## Submission and Grading
 Once you have completed the code implementation and the test suite in the notebook runs without errors, submit your entire project to GitHub Classroom as per our typical course submission process. The standard grading rubric will be used to score your practicum submission. 
